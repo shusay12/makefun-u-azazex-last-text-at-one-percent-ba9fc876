@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+/output/
+transcripts.tar.gz
+muse-usage.jsonl
+u-azazex-last-text-at-one-percent-ba9fc876-kit/
+BUILD-REPORT.md
+*.tar.gz
